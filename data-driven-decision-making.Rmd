@@ -1,6 +1,6 @@
 ---
-title: "Assigment - Data Driven Decision Making"
-author: name author here
+title: How the US Army uses data to improve the lives of soldiers
+author:  Anuruddha Ananda 
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -8,23 +8,26 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+<---- https://www.youtube.com/watch?v=3WC4ot8z584 ---->
 
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3WC4ot8z584" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Major Paul Lester, Director of Research for the Office of the Deputy Under Secretary of the Army and his team has built an enormous database for securely and anonymously analyzing and experimenting with that data to improve life of soldiers. 
 
 ## How did the organization apply 3DM?
-
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
-
+They have run analyses on over 16,000 soldiers entering basic training to measure psychological health and resilience throughout the training. Get clear picture where each and every soldier stand.    
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+army has data of soldiers and their family members also. select the right person to train can reduce PTSD. reduce healthcare utilization and military healthcare budget    
+
+## references
+
+re:Work with Google (2014, November 10). How the US Army uses data to improve the lives of soldiers [Video]. YouTube. https://www.youtube.com/watch?v=3WC4ot8z584
+
+https://rework.withgoogle.com/blog/how-the-army-uses-data-to-improve-soldiers-lives/
+
+Vie, L. L., Griffith, K. N., Scheier, L. M., Lester, P. B., & Seligman, M. E. (2013). The Person-Event Data Environment: leveraging big data for studies of psychological strengths in soldiers. Frontiers in psychology, 4, 934.
+https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00934/full?utm_source=newsletter&utm_medium=web&utm_campaign=Psychology-w6-2014
