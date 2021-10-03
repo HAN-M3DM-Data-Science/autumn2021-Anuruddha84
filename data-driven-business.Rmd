@@ -7,19 +7,55 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
-
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wHwaD7jaREg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Data enables confident and proactive decision making to discover cost-saving measures and identify patterns that affect organizational performance. New technologies have given executives and stakeholders unprocessed insight into how tracking target KPIs and objectively measure performance. Schgroup. (n.d) 
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+benefits of a data-driven culture requires a certain set of values to direct employee training and access, workflow automation, leadership teams, and decision-making. to make the transformation to a data-driven culture, four features work parallels.
+
+1. Democratized data
+
+Members of the organization needs clarity on their role and should have broad access to data to identify how best to reach their goals and activities drive change at the organization. 
+
+2. Data Literacy
+
+Data literacy can be defined as, “the ability to read and use data to draw a meaningful conclusion to power decisions.” base-line understanding and comfortably working with data is needed across organization 
+
+3. Data-driven leadership
+
+It means investing in platforms, technologies to create an infrastructure that leads data-driven processes and decision making. Leaders has role to play give space to curiosity, critical thinking by intentionally building a culture employees feel comfortable exploring data tools and technologies.
+
+4. Decision-making process
+
+Data-driven culture needs a data-driven decision-making process which develop plans based on numbers, execute, measure, evaluate, and then decide the next set of actions.(Publisher suite, n.d)
+
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+1.	Define an executive vision
+
+Identify the questions that need to be answered everyday to measure performances. Gain alignment across leaders that these questions are valid. Specific objectives and business goals are measurable and attainable 
+
+2.	Assemble the right team
+
+Right people with the right skills, industry experts in the driving seats. Correct technique to get feedback and show value to stakeholders, select right tools and technology that align with resources 
+
+3.	Spend time to clean data
+
+Appropriate focus on correct data collection, methodologies that all the segmentation of organization can use to leverage data, use right tools and technology to support organizing data
+
+4.	Embrace the cycle, test and tune
+
+Understand data driven decisions plus models should be evaluated to determined of new factors or considerations are impacting analytic results, adapt the methodologies which are fit with various segments of your business
+
+## References
+
+SC&H Group (2020, May 21). Becoming a Data Driven Organization-Whiteboard Strategy Series [Video]. Youtube. https://www.youtube.com/watch?v=wHwaD7jaREg
+Schgroup. (n.d) Data Analytics: Giving shapes to your success Retrieved on 16.10.2021 from https://www.schgroup.com/services/consulting/business-performance-management/data-analytics/
+Publisher suite (n.d) 4 Characteristics of a Data-Driven Culture Retrieved on 16.10.2021  https://blog.ad-juster.com/4-characteristics-of-a-data-driven-culture/
 
