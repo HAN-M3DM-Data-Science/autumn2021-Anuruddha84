@@ -1,26 +1,37 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Anuruddha Ananda
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
+## Netflix Research: Machine Learning Platform
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Embed code here ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VvTYuQPINec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external ="1"></iframe>
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix found back in 1997. Their first business model was sending dvd´s by mail. Due to the rise of technological development and increase competition in creative sector Netflix had to shift it business model drastically. 
+currently Netflix has created their ecosystem within the creative industry which is value over 128 Billion USD. To be able to reach this position Netflix had to innovate and tailored their products than others in the creative industry.
+
+The business problem is to be able to achieve big success in highly competitive environment, the company has come up with innovative solutions: which is highly personalized individual product (Pumchanut,2018).
+ 
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+After 2006 company has launched the Netflix prize campaign to crowd-sourced movie rating algorithm. However the crowd-sourced algorithm had limited amount of data, such as historical movie ratings, rental dates, basic customer profiles. After 2007 Netflix has improved its data driven decision concept after initiating it streaming service. This service has provided variety of data such as how much time viewers are spending on searching movies and how much time they spending to choose a movie, what time of the day they are watching movies, when they pause it , did they rewatch ect. (Grant, 2018)
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Since 2006 Netflix has gathered massive amount of data. The company also leveraged technological developments by improving it’s infrastructure and its algorithms. As a result they are now able to create the right content and category for different users. The company uses the insights from the data for making the right investment decisions in marketing and advertising. (WeAreNetflix, 2018)
+
+## References 
+
+Pumchanut, A (2018, April 9) Netflix: Disrupting creation with big data. Retrieved on 2 October 2021 from https://digital.hbs.edu/platform-digit/submission/netflix-disrupting-creation-with-big-data/
+
+Grant, K. (2018, May 28). Netflix´s data-driven strategy strengths claim for best original content in 2018. Retrieved on 2 October 2021 from
+https://www.forbes.com/sites/kristinwestcottgrant/2018/05/28/netflixs-data-driven-strategy-strengthens-lead-for-best-original-content-in-2018/?sh=6d92cf0a3a94
+
+WeAreNetflix (2018, September04).  Netflix research machine learning platform. [Video]. Youtube  https://www.youtube.com/watch?v=VvTYuQPINec
